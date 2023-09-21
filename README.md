@@ -5,11 +5,11 @@
 ## Turn 01
 ### 問
 日：
-<details><summary>
+<summary>
 GPT-3.5のAPIを使った、YouTubeLiveで動作するAI-Vtuberのソースコードを作成してください。使用言語はPythonです。
 </summary><div>
 翻：
-<details><summary>
+<summary>
 Please create source code for an AI-Vtuber running on YouTubeLive using the GPT-3.5 API. The language used is Python.
 </summary><div>
 
